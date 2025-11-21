@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentsimlab"
+version = "0.0.0"
+description = "AgentSimLab - deterministic, reproducible multi-agent simulator (prototype stubs)"
+authors = [
+  {name = "AgentSimLab Developer", email = "dev@example.com"}
+]
+dependencies = []
